@@ -3,6 +3,8 @@
     json_serializable: ^2.0.0
     http: "0.11.3+17"
     build_runner: ^1.0.0
+    
+    flutter pub get (command)
 
 ## Flutter Version
 Version • 1.12.13+hotfix.8
@@ -13,3 +15,5 @@ Tools • Dart 2.7.0
 
 ### Author
 [Muhammad Reynaldi](https://www.github.com/Clszz)
+
+
